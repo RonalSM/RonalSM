@@ -1,14 +1,13 @@
-##hola soy Ronal Sajonero Desarrollador Frontend
+## Hola soy Ronal Sajonero desarrollador frontend
 
-##Sobre mi
-Soy un apasionado desarrollador Frontend con una sólida formación en programación y una pasión por crear experiencias digitales atractivas y funcionales. Mi enfoque principal es la creación de interfaces de usuario intuitivas y responsivas utilizando tecnologías como HTML, CSS y JavaScript.
+## Sobre mi
+- Soy un apasionado desarrollador Frontend con una sólida formación en programación y una pasión por crear experiencias digitales atractivas y funcionales. Mi enfoque principal es la creación de interfaces de usuario intuitivas y responsivas utilizando tecnologías como HTML, CSS y JavaScript.
 
 ## Contacto
 - Correo Electrónico: morenospcs@gmail.com
 
-
-##Skills
--Comunicación
--Trabajo en equipo
--Resolución de problemas
--Creatividad
+## Skills
+- Comunicación
+- Trabajo en equipo
+- Resolución de problemas
+- Creatividad
