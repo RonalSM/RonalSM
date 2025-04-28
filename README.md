@@ -5,3 +5,9 @@ Soy un apasionado desarrollador Frontend con una sólida formación en programac
 
 ## Contacto
 - Correo Electrónico: morenospcs@gmail.com
+
+##Technologies
+-Frontend: HTML, CSS, JavaScript, React
+-Backend: C#, Node.js, Express
+-Base de Datos: SQL, MongoDB
+-Otros: Git, GitHub
