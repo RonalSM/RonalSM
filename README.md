@@ -5,3 +5,10 @@ Soy un apasionado desarrollador Frontend con una sólida formación en programac
 
 ## Contacto
 - Correo Electrónico: morenospcs@gmail.com
+
+
+##Skills
+-Comunicación
+-Trabajo en equipo
+-Resolución de problemas
+-Creatividad
