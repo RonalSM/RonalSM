@@ -6,6 +6,10 @@
 ## Contacto
 - Correo electrónico: morenospcs@gmail.com
 
+## Idiomas
+- Ingles
+- Español
+
 ## Hobbies
 - Programación
 - Videojuegos
