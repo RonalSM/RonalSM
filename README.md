@@ -10,6 +10,12 @@
 - Ingles
 - Español
 
+## Skills
+- Comunicación
+- Trabajo en equipo
+- Resolución de problemas
+- Creatividad
+
 ## Hobbies
 - Programación
 - Videojuegos
