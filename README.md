@@ -6,6 +6,12 @@
 ## Contacto
 - Correo electrónico: morenospcs@gmail.com
 
+## Technologies
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: C#, Node.js, Express
+- Base de Datos: SQL, MongoDB
+- Otros: Git, GitHub
+
 ## Idiomas
 - Ingles
 - Español
