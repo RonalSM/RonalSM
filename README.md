@@ -1,6 +1,5 @@
 <h2 align="left">Hola 👋! Mi Nombre es Ronal Sajonero y soy de Colombia</h2>
 
-
 ###
 
 <div align="center">
@@ -31,13 +30,13 @@
 ###
 
 <div align="center">
-  <a href="elneroz" target="_blank">
+  <a href="https://www.twitch.tv/elneroz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="elneroz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discordapp.com/users/elneroz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=%20Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="ronalsajonero" target="_blank">
+  <a href="https://www.linkedin.com/in/ronalsajonero/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -53,3 +52,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronalsm/ronalsm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ronalsm/ronalsm/output/pacman-contribution-graph.svg">
 </picture>
+
+###
