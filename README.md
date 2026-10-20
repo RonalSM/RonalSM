@@ -1,47 +1,53 @@
-<h2 align="left">Hola 👋! Mi Nombre es Ronal Sajonero y soy de Colombia</h2>
+## Delivery pipeline
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/db/fd/3d/dbfd3d39ea9b3aaba72f2e74cbfb6159.jpg"  />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ronalsm&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196259859%3Fu%3D2afa36ac1406121809621a2a9ac635f2d9ce2624%26v%3D4" alt="ronalsm hero visual" />
+</p>
 
-###
+**Ronal Alberto Sajonero Moreno** · Frontend or full-stack engineer
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## Operating principles
 
-###
+<pre><code>ROLE        = Frontend or full-stack engineer
+LOCATION    = Bucaramanga, Colombia
+PUBLIC_REPOS = 3
+COMMUNITY   = 0 followers</code></pre>
 
-<div align="center">
-  <a href="https://www.twitch.tv/elneroz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discordapp.com/users/elneroz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=%20Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ronalsajonero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+Building useful things and learning in public.
 
-###
+## Uptime in motion
 
-<p align="left"></p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ronalsm&theme=github-dark" alt="ronalsm contribution activity" />
+</p>
 
-###
+## Service signals
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronalsm/ronalsm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronalsm/ronalsm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ronalsm/ronalsm/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ronalsm&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196259859%3Fu%3D2afa36ac1406121809621a2a9ac635f2d9ce2624%26v%3D4" alt="ronalsm stats visual" />
+</p>
 
-###
+<p><code>34 contributions</code> · <code>2 day streak</code></p>
+
+## Infrastructure shipped
+
+- **[proyect-mtgc](https://github.com/RonalSM/proyect-mtgc)** — Featured public work · ⭐ 0
+- **[se-widgets](https://github.com/swolekat/se-widgets)** — widgets for stream elements · ⭐ 30
+
+## Platform toolkit
+
+<p><code>ronalsm@github:~$ toolbox --list</code></p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=ronalsm&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196259859%3Fu%3D2afa36ac1406121809621a2a9ac635f2d9ce2624%26v%3D4" alt="ronalsm stack visual" />
+</p>
+
+## Keep it moving
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ronalsm&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F196259859%3Fu%3D2afa36ac1406121809621a2a9ac635f2d9ce2624%26v%3D4" alt="ronalsm social visual" />
+</p>
+
+<a href="https://github.com/ronalsm">GitHub</a>
+
+<p align="center"><sub>Ronal Alberto Sajonero Moreno · DevOps profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
